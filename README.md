@@ -1,4 +1,4 @@
-# Startaê's Style Guides
+# Startaê Guides of Style
 
 Guides for getting things done, programming well, and programming in style.
 
