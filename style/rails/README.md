@@ -124,3 +124,9 @@ TODO
   # good
   User.where.not(id: id)
   ```
+
+## Views
+
+* Never call the model layer directly from a view.
+* Mitigate code duplication by using partial templates and layouts.
+
