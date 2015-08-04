@@ -7,6 +7,7 @@ Guides for getting things done, programming well, and programming in style.
 ## Table of Contents
 
 * [Ruby](/style/ruby)
+* [Rails](/style/rails)
 
 ## High level guidelines:
 
@@ -21,3 +22,4 @@ Guides for getting things done, programming well, and programming in style.
 * "Don't" means there's never a good reason.
 * "Prefer" indicates a better option and its alternative to watch out for.
 * "Use" is a positive instruction.
+
