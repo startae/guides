@@ -1,11 +1,6 @@
 # Site Maintenance
 
-## Found bugs?
-
-* Create a new task in our project
-* Try to give us all the information you have, e.g.: print screen, browser name/version, operational system, desktop/mobile version.
-* Post on the **#site-startae** channel that you found a bug and registered on Flow.
-Feature
+## Feature
 * Make sure your repository is updated
 * Create a new branch from develop called `feature/feature_name`
 * Add your modifications in our CHANGELOG.md file, e.g.:
@@ -20,6 +15,12 @@ Feature
 * Merge your pull request and delete your branch
 * Check and test it on our staging environment
 * Merge develop into master and deploy to Heroku
+
+## Found bugs?
+
+* Create a new task in our project
+* Try to give us all the information you have, e.g.: print screen, browser name/version, operational system, desktop/mobile version.
+* Post on the **#site-startae** channel that you found a bug and registered on Flow.
 
 ## Bugfix
 
