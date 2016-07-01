@@ -6,6 +6,7 @@ Guides for getting things done, programming well, and programming in style.
 
 ## Table of Contents
 
+* [Blogpost](/style/blogpost)
 * [Code Reviews](/style/code-review)
 * [Git](/style/git)
 * [Ruby](/style/ruby)
