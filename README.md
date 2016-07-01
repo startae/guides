@@ -11,6 +11,7 @@ Guides for getting things done, programming well, and programming in style.
 * [Git](/style/git)
 * [Ruby](/style/ruby)
 * [Rails](/style/rails)
+* [Site Maintenance](/style/site-maintenance)
 
 ## High level guidelines:
 
